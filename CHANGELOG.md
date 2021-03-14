@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
  
 ## [Unreleased]
 
+#### Changed
+- Obtaining the data from Nagios is done through SSH instead of a certificate and calling an API
+
 #### Added
 - Added extended PerunEntitlements
 

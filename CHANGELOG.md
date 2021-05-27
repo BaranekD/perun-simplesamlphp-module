@@ -2,6 +2,8 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+#### Added
+- Implemented filter EnsureVoMember
 
 ## [v5.1.1]
 #### Fixed
